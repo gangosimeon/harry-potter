@@ -136,7 +136,7 @@ footer a:hover {
 /*Import et utilisation la police "harryp" pour l'ensemble de la page grâce à `@font-face`. */
 @font-face {
   font-family: harryp;
-  src: url(/assets/fonts/harryp.ttf);
+  src: url("../assets/fonts/harryp.ttf");
 }
 /*Pour s'adapter au telephone mobile*/
 @media only screen and (max-width: 768px) {
